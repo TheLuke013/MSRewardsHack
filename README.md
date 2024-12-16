@@ -2,10 +2,11 @@
 A hack to get points in Microsoft Rewards
 
 ## Dependencies
--  pyautogui
+- pyautogui
+- pynput
 
 To install dependencies:
-`pip install pyautogui`
+`pip install pyautogui pynput`
 
 ## Usage
 Open cmd window and enter:
